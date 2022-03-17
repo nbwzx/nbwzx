@@ -9,6 +9,7 @@ I'm ...
 
 Also available at:
 
+* [Personal website](https://nbwzx.github.io)
 * [Email](mailto:nbwzx@126.com)
 * [Github](https://github.com/nbwzx)
 * [Zhihu](https://www.zhihu.com/people/nbwzx-30)

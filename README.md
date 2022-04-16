@@ -4,7 +4,7 @@ I'm ...
 
 * Currently doing my bachelor thesis about Khovanov homology and knot concordance.
 * Expected to graduate from Shanghai Jiao Tong University in Summer 2022.
-* Planning to pursue further education in Statistics.
+* An incoming graduate student in the National University of Singapore Statistics program.
 * Open to job opportunities (intern or full-time). Feel free to contact me. Download my CV [here](https://nbwzx.github.io/files/CV.pdf).
 
 Also available at:

@@ -2,9 +2,7 @@ Hi, I'm **Zixing Wang** 👋.
 
 I'm ...
 
-* Currently doing my bachelor thesis about Khovanov homology and knot concordance.
-* Expected to graduate from Shanghai Jiao Tong University in Summer 2022.
-* An incoming graduate student in the National University of Singapore Statistics program.
+* An graduate student at the National University of Singapore with major in statistics.
 * Open to job opportunities (intern or full-time). Feel free to contact me. Download my CV [here](https://nbwzx.github.io/files/CV.pdf).
 
 Also available at:

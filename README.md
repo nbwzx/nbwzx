@@ -3,11 +3,11 @@ Hi, I'm **Zixing Wang** 👋.
 I'm ...
 
 * A graduate student at the National University of Singapore with major in statistics.
-* Open to job opportunities (intern or full-time). Feel free to contact me. Download my CV [here](https://nbwzx.github.io/files/CV.pdf).
+* Open to job opportunities (intern or full-time). Feel free to contact me. Download my CV [here](https://zixingwang.cn/assets/files/cv.pdf).
 
 Also available at:
 
-* [Personal website](https://nbwzx.github.io)
+* [Personal website](https://zixingwang.cn)
 * [Email](mailto:nbwzx@126.com)
 * [Github](https://github.com/nbwzx)
 * [Facebook](https://www.facebook.com/zixingwang.cn)

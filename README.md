@@ -15,4 +15,4 @@ Also available at:
 * [Researchgate](https://www.researchgate.net/profile/Zixing-Wang-5)
 * [Twitter](https://twitter.com/nbwzx123)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nbwzx&hide=html,css,scss&langs_count=4&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nbwzx&hide=html,css,scss,stylus&langs_count=6&layout=compact)

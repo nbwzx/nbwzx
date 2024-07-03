@@ -1,9 +1,6 @@
 Hi, I'm **Zixing Wang** 👋.
 
-I'm ...
-
-* A graduate student at the National University of Singapore with major in statistics.
-* Open to job opportunities (intern or full-time). Feel free to contact me. Download my CV [here](https://zixingwang.com/assets/files/cv.pdf).
+I'm a Data Analyst working at Bank of Ningbo (Financial Technology Department). Feel free to contact me. Download my CV [here](https://zixingwang.com/assets/files/cv.pdf).
 
 Also available at:
 
